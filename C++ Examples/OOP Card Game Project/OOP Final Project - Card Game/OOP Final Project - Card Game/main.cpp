@@ -1,4 +1,4 @@
-// Santino Nardolillo, Liam Nasr
+// Liam Nasr
 // Object Oriented Programming Final Project
 // Advanced Card Game (Yu-Gi-Oh-based Card Game)
 
