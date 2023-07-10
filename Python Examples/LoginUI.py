@@ -1,4 +1,4 @@
-#Login Page example
+#Login Page example, USE 'admin' and 'password' as username and password to test my system
 import tkinter as tk
 from tkinter import messagebox
 
